@@ -1,0 +1,45 @@
+body
+{
+    margin-left:auto;
+    margin-right:auto;
+    font: Arial, sans-serif;
+    font-size: 1.2em;
+    color: #005000;
+}
+.header
+{
+text-align:center;
+color: green;
+}
+.Laside
+{
+    float:left;
+}
+.Raside
+{
+    float: right;
+}
+section
+{
+    clear: right;
+}
+
+label
+{
+   float:left;
+   width:7em;
+}
+input[type=text], select  
+{
+    margin-left:0.5em;
+    margin-bottom:0.5em;
+}
+input[type=radio]
+{ 
+    float:left;
+}
+footer{
+  font:Arial, sans-serif;
+  font-size: 0.8em;
+  color: #009600;
+}
